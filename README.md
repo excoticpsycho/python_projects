@@ -25,7 +25,6 @@ No external libraries required — uses built-in tkinter and random
 🚀 Getting Started
 
 Clone the repository:
-git clone https://github.com/your-username/rock-paper-scissors-tkinter.git
 
 cd rock-paper-scissors-tkinter
 
